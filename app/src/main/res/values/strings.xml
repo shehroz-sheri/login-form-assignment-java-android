@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">JavaLogin</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="options">Options</string>
+    <string name="remember_me">Remember me</string>
+    <string name="keep_me_logged_in">Keep_me_logged_in</string>
+    <string name="select_user_type">Select_user_type</string>
+    <string name="user">User</string>
+    <string name="admin">Admin</string>
+    <string name="login">Login</string>
+    <string name="text_5">text 5</string>
+    <string name="text_4">text 4</string>
+    <string name="text_3">text 3</string>
+    <string name="text_2">text 2</string>
+    <string name="text_1">text 1</string>
+</resources>
